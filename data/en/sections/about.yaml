@@ -19,39 +19,39 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'With a passion for innovation and a deep understanding of emerging technologies, I am a tech expert who stays on the cutting edge of industry trends to deliver the best possible outcomes for my projects.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "ndiaye.m.moustapha@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/fista42"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/ndiaye-mamadou-moustapha-926abaa6/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/___MMN__"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -64,34 +64,34 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: AWS Certified SysOps Administrator – Associate
+  url: "https://www.credly.com/badges/cd699afc-fd27-4ed6-904e-2c8763123758/public_url"
+  badge: "https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: AWS Certified Solutions Architect – Associate
+  url: "https://www.credly.com/badges/f8a9e547-a7ca-438c-866c-bf95d6658dec/public_url"
+  badge: "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: AWS Certified Cloud Practitioner
+  url: "https://www.credly.com/badges/81d01e37-2504-4bab-9ccf-3245d0008813/public_url"
+  badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: soft-skill-indicator
   name: Team Work
+  percentage: 95
+  color: blue
+
+- type: soft-skill-indicator
+  name: Adaptability
   percentage: 90
-  color: yellow
+  color: green
 
 - type: soft-skill-indicator
   name: Hard Working
   percentage: 85
-  color: orange
+  color: yellow
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

@@ -11,54 +11,74 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: BetclicGroup
+    url: "https://betclicgroup.com/"
+    location: France
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Established in 2005, Betclic is one of the European leaders in online gambling and sports betting.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Cloud DevOps Site reliability engineering
+    start: OCT 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Automate and maintain on-premise and cloud infrastructures and applications. Identify means and ways to make the system more efficient and optimise ressources.
+    - N3 support level, create and implement security best practises, high availability, and scaling.
+    - LEvolve the platform and hardwares.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Airbus subcontractor for Computacenter
+    url: "https://www.computacenter.com"
+    location: France
+    overview: Computacenter is a leading independent technology and services provider that help customers to Source, Transform and Manage their technology infrastructure to deliver digital transformation.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Infrastructure engineer and cloud architect
+    start: Dec 2019
+    end: Oct 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Security and compliance administrator for Unix and Linux scope and automation.
+    - Project on satellite 5/6 ITSM implementation and compliance assessment software developement.
+    - Architecting on aws and devops implementation with terraform, kubernetes cluster and Gitlab.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Airbus subcontractor for Devoteam.
+    url: "https://www.devoteam.com/"
+    location: France
+    overview: Devoteam is a leading consulting firm focused on digital strategy, platform technologies, cybersecurity and business transformation.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Infrastructure and cloud consultant
+    start: Aug 2016
+    end: Dec 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Linux expert, architecting (on aws and on premise) andintegration of applications.
+    - Linux/Unix and BladeLogic system engineer and automation.
+    - Python developper for a malware analysis web platform, CI/CD with Devops and agile practises.
+
+- company:
+    name: 3MA Group.
+    url: "https://www.3magroup.com/"
+    location: France
+    overview: 3ma group goal is to understand communication strategies of their customers and help in their digitalisation.
+  positions:
+  - designation: System and network administration
+    start: JAN 2016
+    end: Aug 2019
+    responsibilities:
+    - Incident management and IT support. Servers administration (windows, linux, sql, exchange) networking, monitoring and maintenance.
+    - Deployment of an intranet with Sharepoint.
+    - Virtualization with Hyper-V and storage.
+
+- company:
+    name: NETIKA.
+    url: "https://netika.com/en/"
+    location: France
+    overview: Founded in 1987, NETiKA GROUP today includes five companies active in software development and integration, as wel as in IT services.
+  positions:
+  - designation: System and network administration internship
+    start: May 2015
+    end: Sep 2015
+    responsibilities:
+    - Redhat and Debian Server Administration and IT support.
+    - Active Directory implementation with Samba4 and GPO management.
+    - setting up VOIP with Asterisk, print server with cups.
